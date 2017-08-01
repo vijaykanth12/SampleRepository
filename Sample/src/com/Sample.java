@@ -7,6 +7,7 @@ public class Sample {
 
 		System.out.println("Hello World");
 		System.out.println("Checking Git");
+		System.out.println("Checking Gittttttttt");
 	}
 
 }
